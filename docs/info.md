@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You can use each dip switch to customize which segment of the bar graph flashes
 
 ## How to test
 
-Explain how to use your project
+Use each input to verify that is connected to a portion of the led bar graph, 2 segments are not connects
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED Bar Graph Display

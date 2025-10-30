@@ -26,7 +26,7 @@ pinout:
   ui[7]: "dip switch 8"
 
   # Outputs
-  uo[0]: "AND of IN0 and clock signal"
+  uo[0]: "AND of IN0 and clock signal (controls top 3 bars)" 
   uo[1]: "AND of IN1 and clock signal"
   uo[2]: "AND of IN2 and clock signal"
   uo[3]: "AND of IN3 and clock signal"
